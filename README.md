@@ -95,12 +95,6 @@ All paths in the notebook assume the following folder structure:
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🙌 Acknowledgements
 
 This work was supported by:
