@@ -103,3 +103,4 @@ This work was supported by:
 - NTUH Department of Ophthalmology
 
 We thank all collaborators and contributors to the dataset and analysis pipeline.
+Original model architecture and training pipeline designed by Chen-Hao Peng (2025).
